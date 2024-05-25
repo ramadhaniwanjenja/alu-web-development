@@ -111,6 +111,10 @@ button {
     margin-bottom: 5em;
 }
 
+.purple-text {
+    color: purple;
+}
+
 .popularBox {
     display: flex;
     justify-content: space-evenly;
